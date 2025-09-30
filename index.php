@@ -1,7 +1,7 @@
 <?php
 
 $servername = "db"; 
-$database = "fernandobanco";
+$database = "luisfelipebanco";
 $username = "root"; 
 $password = "root"; 
 
@@ -76,3 +76,4 @@ try {
     echo "Erro na conexão ou consulta: " . $e->getMessage();
 }
 ?>
+
